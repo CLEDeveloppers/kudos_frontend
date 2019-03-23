@@ -1,0 +1,47 @@
+[
+  {
+    "id": 100,
+    "title": "Introduction to Programming",
+    "subtitle": "CSC 1401",
+    "description": "Pre-requisite: Working knowledge of algebra and trigonometry This course will cover algorithms and problem solving...",
+    "year": 2019,
+    "imageUrl": "../images/Introduction_to_Programming.jpg",
+    "availability": "5/82"
+  },
+  {
+    "id": 200,
+    "title": "Data Structures",
+    "subtitle": "CSC 2302",
+    "description": "Pre-requisites: CSC 1401 and MTH 1304 (required for BSCS program and recommended for the other programs)...",
+    "year": 2019,
+    "imageUrl": "../images/Data_Structures.jpg",
+    "availability": "24/85"
+  },
+  {
+    "id": 300,
+    "title": "Advanced Programming/Object",
+    "subtitle": "CSC 2303",
+    "description": "Pre-requisite: CSC 2302 This course will build on the broad ability...",
+    "year": 2019,
+    "imageUrl": "../images/Advanced_Programming.jpg",
+    "availability": "6/30"
+  },
+  {
+    "id": 400,
+    "title": "Database Systems",
+    "subtitle": "CSC 3326",
+    "description": "Pre-requisite: CSC 3324 The course covers the design and use of modern relational databases.Topics include file structures...",
+    "year": 2019,
+    "imageUrl": "../images/Database_Systems.jpg",
+    "availability": "18/20"
+  },
+  {
+    "id": 500,
+    "title": "Deep Learning",
+    "subtitle": "CSC 4299",
+    "description": "Deep learningis a subfield of machine learning concerned with algorithms inspired by the structure and function of the...",
+    "year": 2019,
+    "imageUrl": "../images/Deep_Learning.jpg",
+    "availability": "10/10"
+  }
+]

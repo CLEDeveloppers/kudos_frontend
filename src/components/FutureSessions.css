@@ -1,0 +1,46 @@
+.App {
+  text-align: center;
+}
+
+.Body {
+  padding-top: 10%;
+  background-color: white;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: calc(5px + 2vmin);
+  color: grey;
+  white-space: nowrap;
+  overflow: hidden;
+}
+/*#282c34*/
+.App-header {
+  background-color: #fc4c02;
+  min-height: 5%;
+  display: flex;
+  text-align: left;
+  padding-left: 5%;
+  flex-direction: column;
+  font-size: calc(5px + 2vmin);
+  color: white;
+}
+.App-footer {
+  background-color: #fc4c02;
+  min-height: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: calc(5px + 2vmin);
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+
+
+.modal-backdrop{
+  background-color: rgba(0, 0, 0, 0.1);
+
+}
