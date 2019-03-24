@@ -1,3 +1,27 @@
+.pink {
+   background-color: #E6787A !important;
+}
+
+.light-blue {
+   background-color: #7DC4B9 !important;
+}
+
+.yellow {
+   background-color: #F2B64B !important;
+}
+
+.dark-blue {
+   background-color: #455A69 !important;
+}
+
+.grey {
+   background-color: #807D7D !important;
+}
+
+body {
+    background-color: #e6ecf0 !important;
+}
+
 body {
   margin: 0;
   padding: 0;

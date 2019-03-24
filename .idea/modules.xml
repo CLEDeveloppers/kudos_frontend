@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/kudos-complete.iml" filepath="$PROJECT_DIR$/kudos-complete.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kudos-frontend.iml" filepath="$PROJECT_DIR$/kudos-frontend.iml" />
     </modules>
   </component>
 </project>
